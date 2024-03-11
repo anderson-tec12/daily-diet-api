@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "daily-diet-api",
+			"path": "."
+		},
+		{
+			"name": "ignite-node",
+			"path": "../Ignite/ignite-node"
+		},
+		{
+			"name": "notes",
+			"path": "../notes"
+		}
+	],
+	"settings": {}
+}
