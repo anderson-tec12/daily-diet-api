@@ -7,6 +7,6 @@ app
   .listen({
     port: env.PORT,
   })
-  .then(() => {
-    console.log('HTTP Server is running')
+  .then((info) => {
+    console.log('HTTP Server is running ' + info)
   })
